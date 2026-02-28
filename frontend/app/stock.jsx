@@ -19,6 +19,7 @@ const Stock = ({ setActivetab }) => {
                         <ThemedText>Name: </ThemedText>
                         <ThemedText>Quantity: </ThemedText>
                         <ThemedText>Sold: </ThemedText>
+                        <ThemedText>Cost: </ThemedText>
                     </View>
                 </View>
             </ScrollView>
